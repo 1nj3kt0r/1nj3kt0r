@@ -2,21 +2,21 @@
 
 A highly focused Software Engineer and System Analyst with 2 years of in-depth experience. My work centers on low-level development and system analysis in C/C++, C#, Java, and Kotlin. I am committed to studying binary architecture, comprehending software mechanics, and deploying reliable software protection technologies.
 
-<table align="left" border="0" width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
+<table>
+  <tr>
+    <td>
       <h3>Tech Stack</h3>
       <b>Languages</b><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin&perline=6" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin&perline=6"  alt=""/>
       </a>
       <br/><br/>
       <b>Tools & Environment</b><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,clion,idea,rider&perline=6" />
+        <img src="https://skillicons.dev/icons?i=git,vscode,clion,idea,rider&perline=6"  alt=""/>
       </a>
     </td>
-    <td width="50%" valign="top" style="border: none;">
+    <td>
       <h3>Mission Focus</h3>
       <ul>
         <li>
